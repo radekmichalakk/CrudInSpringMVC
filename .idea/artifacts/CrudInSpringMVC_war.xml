@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CrudInSpringMVC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CrudInSpringMVC.war">
+      <element id="artifact" artifact-name="CrudInSpringMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
